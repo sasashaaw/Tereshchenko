@@ -2904,10 +2904,9 @@ input, select, textarea {
 			#footer {
 				padding: 40px 0 20px 0;
 			}
-		.navbar-brand, .logo, h1 span {
-    color: #0044cc;
-    background-color: #ff4d4d;
-    padding: 5px 12px;
-    border-radius: 6px;
+		.navbar-brand, .logo, h1 span, #logo h1, a {
+    color: #0044cc !important;
+    background-color: #ff4d4d !important;
+    padding: 5px 12px !important;
+    border-radius: 6px !important;
 }
-	}
