@@ -2904,5 +2904,10 @@ input, select, textarea {
 			#footer {
 				padding: 40px 0 20px 0;
 			}
-
+		.navbar-brand, .logo, h1 span {
+    color: #0044cc;
+    background-color: #ff4d4d;
+    padding: 5px 12px;
+    border-radius: 6px;
+}
 	}
